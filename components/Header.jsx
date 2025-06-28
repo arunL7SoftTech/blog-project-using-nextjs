@@ -23,7 +23,7 @@ export default function Header() {
                 <Link href="/" className="font-medium text-2xl tracking-wide">Blog</Link>
             </div>
             <nav>
-                <div className="space-x-5 flex text-lg">
+                <div className="space-x-5 text-lg">
                     <Link href="/">Home</Link>
                     <Link href="/about">About</Link>
                     <Link href="/contact">Contact</Link>
